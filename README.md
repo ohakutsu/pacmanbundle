@@ -2,6 +2,14 @@
 
 A [pacmanfile](https://github.com/cloudlena/pacmanfile)-inspired tool.
 
+## Install
+
+```
+$ git clone https://github.com/ohakutsu/pacmanbundle.git
+$ cd pacmanbundle/builds
+$ makepkg -si
+```
+
 ## Usage
 
 ```
